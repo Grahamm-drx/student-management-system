@@ -7,4 +7,5 @@ Final Group Project IT105
 - Backend Developer: Briones, Derick N.
 - SQL Developer: Namia, Kyle Mathew A.
 - Frontend Developer: Sambajon, Ryecco Adrian B.
-- QA / Performance Analyst: Viñas, Aljon M., Salcedo, Gabriel Meshach G.
+- QA: Viñas, Aljon M.
+- Performance Analyst: Salcedo, Gabriel Meshach G.
